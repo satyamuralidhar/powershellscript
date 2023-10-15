@@ -63,4 +63,12 @@
         Cmdlet          Get-WindowsImage                                   3.0        Dism
 
 
-<img src="storage.png"  width="60%" height="20%">
+**PSM and PSD :**
+       
+        $module.psm  #"--> Stands for powershell module"
+        $Definition.psd  #"--> Stands for powershell definition"
+
+
+
+
+<img src="storage.png"  width="80%" height="20%">

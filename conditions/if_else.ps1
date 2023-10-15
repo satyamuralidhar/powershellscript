@@ -8,10 +8,9 @@ $calc = Read-Host "Enter [a] for add or [b] for subtract "
 if ($calc -eq 'a') {
     $result = $num1 + $num2 
     Write-Host "Adddition Value: $result"  
-elseif 
+elseif
   $result = $num1 - $num2  
   Write-Host "Subtraction Value: $result"
-}
-  else {
+}else {
     Write-Host "Please check input Needed [a or b] Values"
 }
