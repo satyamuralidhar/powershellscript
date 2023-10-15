@@ -39,4 +39,4 @@ function Caliculator {
     
     
 }
-Caliculator 10
+Caliculator
